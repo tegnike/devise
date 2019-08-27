@@ -27,3 +27,5 @@
 /config/master.key
 
 /bin/*
+
+/config/initializers/devise.rb
